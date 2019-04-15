@@ -1,2 +1,8 @@
 # terraform-aws-format-task
-terraform l3 format-task lambda function
+This module creates format-task lambda
+See [format-task] (https://github.com/QuiNovas/format-task) for details.
+
+## Authors
+
+Module managed by Quinovas (https://github.com/QuiNovas)
+
