@@ -7,6 +7,6 @@ module "format_task" {
   runtime         = "python3.7"
   source          = "QuiNovas/lambdalambdalambda/aws"
   timeout         = 5
-  version         = "3.0.1"
+  version         = "3.0.2"
 }
 
